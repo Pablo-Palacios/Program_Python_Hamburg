@@ -1,0 +1,15 @@
+archivo para tener los registros!!
+IN, Thu Feb 23 21:13:43 2023, Pablo Palacios
+OUT, Thu Feb 23 21:14:21 2023, Pablo Palacios, 15
+IN, Thu Feb 23 21:14:42 2023, Octavio Larra
+IN, Thu Feb 23 21:16:59 2023, PACO 
+OUT, Thu Feb 23 21:17:32 2023, PACO, 5
+IN, Thu Feb 23 21:17:40 2023, MAXIMOIN, Thu Feb 23 21:21:55 2023, LAUTARO
+OUT, Thu Feb 23 21:23:08 2023, LAUTARO, 14
+IN, Thu Feb 23 21:23:13 2023, agustina
+IN, Thu Feb 23 21:26:41 2023, Pablo Palacios
+OUT, Thu Feb 23 21:27:42 2023, Pablo Palacios, 7
+IN, Thu Feb 23 21:27:53 2023, fatima 
+IN, Fri Feb 24 09:28:14 2023, Cai
+OUT, Fri Feb 24 09:29:03 2023, Cai, 8
+IN, Fri Feb 24 09:29:09 2023, pablo
