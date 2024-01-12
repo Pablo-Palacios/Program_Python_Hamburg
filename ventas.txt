@@ -1,6 +1,0 @@
-archivo para guardar las ventas!!
-carolina , Thu Feb 23 21:14:05 2023, 0, 1, 1, 1, 15
-camila, Thu Feb 23 21:17:23 2023, 1, 0, 0, 0, 5
-LUCAS, Thu Feb 23 21:22:21 2023, 0, 0, 2, 0, 14
-tomi, Thu Feb 23 21:27:32 2023, 1, 0, 0, 1, 7
-pablo, Fri Feb 24 09:28:54 2023, 0, 1, 0, 1, 8
